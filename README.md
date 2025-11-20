@@ -1,4 +1,3 @@
-# EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -38,38 +37,36 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
-
 
 a.   KVL:
- 
+![Circuit Diagram - 1](https://github.com/user-attachments/assets/e220ff56-8ba8-45aa-8944-e5648d7eb71a)
 
 
 b.  KCL:
- 
+ ![Circuit diagram - 1](https://github.com/user-attachments/assets/b466c065-d65b-4cd4-90fe-4b48b15bf97d)
+
 
 Calculation:
 
 a.   KVL:
- 
+ ![KVL Calculation](https://github.com/user-attachments/assets/0eb1a898-9a14-4f17-a0bd-a4fa1d6b7501)
 
 
 b.  KCL:
-
-
+![KCL Calculation](https://github.com/user-attachments/assets/e1a91ff5-b38b-45ca-aa76-f692fd310fbc)
 
 
 Tabulation:
 
 a.   KVL:
- 
+ ![KVL tabulation ](https://github.com/user-attachments/assets/a45b538d-711f-47a1-8937-2eb2fa4dadca)
 
 
 b.  KCL:
 
-
+ ![KCL Tabulation](https://github.com/user-attachments/assets/7e3725af-3029-41bf-a7f6-bbb13897a806)
 
 RESULT:
 
